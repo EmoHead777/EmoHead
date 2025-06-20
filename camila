@@ -1,0 +1,64 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>EmoHead</title>
+  <link rel="stylesheet" href="camila.css" />
+</head>
+<body>
+  <header>
+    <a href="EmoHead.html">
+      <img src="C:\Users\alexa plumeda\Downloads\WhatsApp Image 2025-06-18 at 8.00.38 AM.jpeg" alt="Logo EmoHead" class="logo" />
+    </a>
+    <button onclick="location.href='registro.html'" class="registro-btn">REGISTRO</button>
+    <h1 class="titulo">EMO<span class="head">HEAD</span></h1>
+    <nav>
+      <a href="EmoHead.html" class="nav-link">INICIO</a>
+      <a href="servicios.html" class="nav-link">SERVICIOS</a>
+      <a href="transtornos.html" class="nav-link">DIAGNOSTICOS</a>
+      <a href="psqiuatras.html" class="nav-link">PSIQUIATRAS</a>
+    </nav>
+  </header>
+ <section class="contenido">
+    <div class="imagen">
+      <img src="torres.jpeg" alt="Dra. Camila Torres">
+    </div>
+    <div class="texto-central">
+      <h2>Dra. Cristina Gutierrez</h2>
+      <p>
+        La Dra. Cristina Gutierrez es una gran psiquiatra con más de 20 años de experiencia en el campo de la salud mental. Graduada con honores de la Universidad Nacional, ha dedicado su carrera al tratamiento integral de trastornos como la ansiedad, depresión y estrés postraumático.
+      </p>
+      <p>
+        Su enfoque humano y profesional ha transformado la vida de cientos de pacientes, brindando herramientas terapéuticas efectivas y personalizadas. Actualmente, la Dra. Garcia atiende en su consultorio particular donde combina técnicas de psiquiatría tradicional con enfoques modernos de salud emocional.
+      </p>
+    </div>
+    <div class="mapa">
+      <iframe 
+        src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3763.7687753262036!2d-99.16884118471224!3d19.39949334653939!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x85d1ff4f795d41df%3A0x50c254e4d00b444d!2sConsultorio%20Psicol%C3%B3gico!5e0!3m2!1ses!2smx!4v1718670000000"
+        width="300" 
+        height="200" 
+        style="border:0; border-radius: 10px; box-shadow: 0 0 10px rgba(0,0,0,0.2);" 
+        allowfullscreen="" 
+        loading="lazy" 
+        referrerpolicy="no-referrer-when-downgrade">
+      </iframe>
+    </div>
+  </section>
+  <footer class="footer">
+        <div class="redes">
+            <a href="https://instagram.com" target="_blank">
+                <img src="C:\Users\alexa plumeda\Downloads\WhatsApp Image 2025-06-12 at 8.58.42 PM (3).jpeg" alt="Instagram" class="icono-red">
+            </a>
+            <a href="https://facebook.com" target="_blank">
+                <img src="C:\Users\alexa plumeda\Downloads\WhatsApp Image 2025-06-12 at 8.58.42 PM (2).jpeg" alt="Facebook" class="icono-red">
+            </a>
+            <a href="https://x.com" target="_blank">
+                <img src="C:\Users\alexa plumeda\Downloads\WhatsApp Image 2025-06-12 at 8.58.39 PM (4).jpeg" alt="X" class="icono-red">
+            </a>
+        </div>
+        <p>Estrella Alexandra Meza Robles</p>
+        <p>Alexa Michelle Plumeda Rodriguez</p>
+    </footer>
+  </body>
+</html>
